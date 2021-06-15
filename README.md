@@ -19,4 +19,4 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] Setup Bokeh Application Server with DigitalOcean (idea by boycottapple)
 - [ ] Deploying Interactive Bokeh Server App (idea by boycottapple)
 - [ ] Embedding Bokeh Apps with Flask (idea by boycottapple)
-- [ ] Enters tickers textinput + search + variance graph (idea by 오즈의 콜맨)
+- [X] Enters tickers textinput + search + variance graph (idea by 오즈의 콜맨)
