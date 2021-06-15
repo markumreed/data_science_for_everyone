@@ -15,7 +15,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 
 ### Bokeh/Finance
 - [X] Financial Data S&P 500 Data (idea by Juan Diego Torres Carmona)
-- [ ] Streaming Data Application (idea by boycottapple)
+- [X] Streaming Data Application (idea by boycottapple)
 - [ ] Setup Bokeh Application Server with DigitalOcean (idea by boycottapple)
 - [ ] Deploying Interactive Bokeh Server App (idea by boycottapple)
 - [ ] Embedding Bokeh Apps with Flask (idea by boycottapple)
