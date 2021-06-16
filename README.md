@@ -7,7 +7,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] Why SQL and Databases?
 - [X] SELECT
 - [X] WHERE
-- [ ] GROUP BY & ORDER BY
+- [X] GROUP BY & ORDER BY
 - [ ] CASE Statements
 - [ ] JOIN
 - [ ] DataBase Design
