@@ -8,8 +8,8 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [X] SELECT
 - [X] WHERE
 - [X] GROUP BY & ORDER BY
-- [ ] CASE Statements
-- [ ] JOIN
+- [X] CASE Statements
+- [X] JOIN
 - [ ] DataBase Design
 - [ ] Managing Data
 
