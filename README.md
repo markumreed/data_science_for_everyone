@@ -20,3 +20,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] Deploying Interactive Bokeh Server App (idea by boycottapple)
 - [ ] Embedding Bokeh Apps with Flask (idea by boycottapple)
 - [X] Enters tickers textinput + search + variance graph (idea by 오즈의 콜맨)
+
+### Data Science at the Command Line
+- [ ] Baisc Unix Commands
+- [ ] 
