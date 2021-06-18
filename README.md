@@ -86,9 +86,14 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 
 ### D3
 - [ ] Introduction to D3
+- [ ] Technology Fundamentals: HTML
+- [ ] Technology Fundamentals: DOM
+- [ ] Technology Fundamentals: CSS
+- [ ] Technology Fundamentals: JavaScript
+- [ ] Technology Fundamentals: Server Setup
 - [ ] D3: Setup
-- [ ] D3: SVGs
-- [ ] JavaScript and the DOM
+- [ ] D3: Data
+- [ ] D3: Drawing with Data
 - [ ] D3: Single Dataset
 - [ ] D3: Two Datasets
 - [ ] D3: Animating List Items
@@ -100,6 +105,99 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] D3: Colors, Color Scales, and Heatmaps
 - [ ] D3: Trees and Networks
 - [ ] D3: Utilities: Arrays, Statistics, and Timestamps
+- [ ] D3: Updates, Transitions, and Motion
+- [ ] D3: Interactivity
+- [ ] D3: Using Paths
+- [ ] D3: Layouts
+- [ ] D3: Geomapping
+- [ ] D3: Exporting
+- [ ] D3: Full Project Example
+
+### Machine Learning with Scikit-Learn
+- [ ] ML with Scikit-Learn: End-to-End Project
+- [ ] ML with Scikit-Learn: Binary Classification
+- [ ] ML with Scikit-Learn: Multi-Class Classification
+- [ ] ML with Scikit-Learn: Linear Regression
+- [ ] ML with Scikit-Learn: Gradient Descent
+- [ ] ML with Scikit-Learn: Polynomial Regression
+- [ ] ML with Scikit-Learn: Learning Curves
+- [ ] ML with Scikit-Learn: Regularized Linear Models
+- [ ] ML with Scikit-Learn: Logistic Regression
+- [ ] ML with Scikit-Learn: Linear SVM Classification
+- [ ] ML with Scikit-Learn: Nonlinear Classification
+- [ ] ML with Scikit-Learn: SVM Regression
+- [ ] ML with Scikit-Learn: Under the Hood
+- [ ] ML with Scikit-Learn: Decision Trees
+- [ ] ML with Scikit-Learn: Voting Classifiers
+- [ ] ML with Scikit-Learn: Bagging and Pasting
+- [ ] ML with Scikit-Learn: Random Patches and Random Subspaces
+- [ ] ML with Scikit-Learn: Random Forest
+- [ ] ML with Scikit-Learn: Boosting
+- [ ] ML with Scikit-Learn: Stacking
+- [ ] ML with Scikit-Learn: PCA
+- [ ] ML with Scikit-Learn: Kernel PCA
+- [ ] ML with Scikit-Learn: Clustering
+- [ ] ML with Scikit-Learn: Gaussian Mixtures
+
+### Deep Learning
+- [ ] DL: Introduction to ANN with Keras
+- [ ] DL: Implementing MLPs with Keras
+- [ ] DL: Fine-Tuning Neural Network Hyperparameters
+- [ ] DL: Vanishing/Exploding Gradients Problem
+- [ ] DL: Reusing Pretrained Layers
+- [ ] DL: Faster Optimizers
+- [ ] DL: Avoiding Overfitting Through Regularization
+- [ ] DL: Introduction to TensoreFlow 2.0 
+- [ ] DL: Using TF like NumPy
+- [ ] DL: Customizing Models and Training Algorithms
+- [ ] DL: TF Functions and Graphs
+- [ ] DL: Data API
+- [ ] DL: TFRecord Format
+- [ ] DL: Preprocessing the Input Features
+- [ ] DL: TF Transform
+- [ ] DL: TFDS Project
+- [ ] DL: Architecture of the Visual Cortex
+- [ ] DL: Convolutional Layers
+- [ ] DL: Pooling Layers
+- [ ] DL: CNN Architectures
+- [ ] DL: Implementing the ResNet-34 CNN Using Keras
+- [ ] DL: Pretrained Models for Transfer Learning
+- [ ] DL: Classification and Localization
+- [ ] DL: Object Detection
+- [ ] DL: Semantic Segmentation
+- [ ] DL: Recurrent Nerons and Layers
+- [ ] DL: Training RNNs
+- [ ] DL: Forecasting a Time Series
+- [ ] DL: Handeling Long Sequences
+- [ ] DL: Generating Shakespearean Text Using a Character RNN
+- [ ] DL: Sentiment Analysis
+- [ ] DL: An Encoder-Decoder Network for Neural Machine Translation
+- [ ] DL: Attention Mechanisms
+- [ ] DL: Effecient Data Representation
+- [ ] DL: Performing PCA with an Undercomplete Linear Autoencoder
+- [ ] DL: Stacked Autoencoders
+- [ ] DL: Convolutional Autoencoders
+- [ ] DL: Recurrent Autoencoders
+- [ ] DL: Denoising Autoencoders
+- [ ] DL: Sparse Autoencoders
+- [ ] DL: Variational Autoencoders
+- [ ] DL: Generative Adversarial Networks
+- [ ] DL: Reinforcement Learning: Learning to Optimize Rewards
+- [ ] DL: Reinforcement Learning: Policy Search
+- [ ] DL: Reinforcement Learning: Intro to OpenAIGym
+- [ ] DL: Reinforcement Learning: Nearual Network Policies
+- [ ] DL: Reinforcement Learning: Evaluating Actions
+- [ ] DL: Reinforcement Learning: Policy Gradients
+- [ ] DL: Reinforcement Learning: Markov Decision Processes
+- [ ] DL: Reinforcement Learning: Temporal Difference Learning
+- [ ] DL: Reinforcement Learning: Q-Learning
+- [ ] DL: Reinforcement Learning: Implementing Deep Q-Learning
+- [ ] DL: Reinforcement Learning: Deep Q-Learning Variants
+- [ ] DL: Reinforcement Learning: TF-Agents Library
+- [ ] DL: Serving a TF Model
+- [ ] DL: Deploying a Model to a Mobile or Embedded Device
+- [ ] DL: Using GPUs to Speed Up Computations
+- [ ] DL: Training Models Across Multiple Devices
 
 ## COMPLETED
 
