@@ -3,7 +3,7 @@
 Welcome everyone to the Data Science for Everyone video request page. Below you'll out TODO list of videos. Some have been requested by viewers others are created out of need or interest. 
 
 ## Video TODO List
-### SQL
+### SQLite
 - [ ] Why SQL and Databases?
 - [X] SELECT
 - [X] WHERE
@@ -12,6 +12,23 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [X] JOIN
 - [ ] DataBase Design
 - [ ] Managing Data
+
+### MySQL
+- [ ] MySQL: Introduction to MySQL
+- [ ] MySQL: Creating and Populating a Database
+- [ ] MySQL: Query Primer
+- [ ] MySQL: Filtering
+- [ ] MySQL: Querying Multiple Tables
+- [ ] MySQL: Working with Sets
+- [ ] MySQL: Data Generation, Conversion, and Manipulation
+- [ ] MySQL: Grouping and Aggregates
+- [ ] MySQL: Subqueries
+- [ ] MySQL: Joins Revisited
+- [ ] MySQL: Conditional Logic
+- [ ] MySQL: Transactions
+- [ ] MySQL: Indexes and Constraints
+- [ ] MySQL: Views
+- [ ] MySQL: Metadata
 
 ### Python for Finance
 - [ ] Financial Data
