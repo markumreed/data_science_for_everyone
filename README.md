@@ -224,3 +224,4 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [X] Setup Bokeh Application Server with DigitalOcean (idea by boycottapple)
 - [X] Deploying Interactive Bokeh Server App (idea by boycottapple)
 - [X] Enters tickers textinput + search + variance graph (idea by 오즈의 콜맨)
+- [X] FileInput Widget and Multiple Data Sources (idea by Romulo Alvarez Garcia)
