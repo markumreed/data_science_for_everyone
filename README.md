@@ -7,7 +7,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 ### MySQL
 - [X] MySQL: Introduction to MySQL
 - [X] MySQL: Creating and Populating a Database
-- [ ] MySQL: Query Primer
+- [X] MySQL: Query Primer
 - [ ] MySQL: Filtering
 - [ ] MySQL: Querying Multiple Tables
 - [ ] MySQL: Working with Sets
