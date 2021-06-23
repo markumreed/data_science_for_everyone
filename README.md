@@ -3,15 +3,6 @@
 Welcome everyone to the Data Science for Everyone video request page. Below you'll out TODO list of videos. Some have been requested by viewers others are created out of need or interest. 
 
 ## Video TODO List
-### SQLite
-- [ ] Why SQL and Databases?
-- [X] SELECT
-- [X] WHERE
-- [X] GROUP BY & ORDER BY
-- [X] CASE Statements
-- [X] JOIN
-- [ ] DataBase Design
-- [ ] Managing Data
 
 ### MySQL
 - [X] MySQL: Introduction to MySQL
@@ -29,77 +20,6 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] MySQL: Indexes and Constraints
 - [ ] MySQL: Views
 - [ ] MySQL: Metadata
-
-### Python for Finance
-- [ ] Financial Data
-- [ ] Rolling Statistics
-- [ ] Correlation Analysis
-- [ ] High-Frequency Data
-- [ ] I/O PyTanles
-- [ ] I/O TsTables
-- [ ] Performance Python: Loops
-- [ ] Performance Python: Algorithms
-- [ ] Performance Python: Binomial Trees
-- [ ] Performance Python: Monte Carlo Simulation
-- [ ] Performance Python: Recursive PAndas Algorithm
-- [ ] Mathematical Tools: Approximation
-- [ ] Mathematical Tools: Convex Optimization
-- [ ] Mathematical Tools: Integration
-- [ ] Mathematical Tools: Symbolic Computation
-- [ ] Stochastics: Random Numbers
-- [ ] Stochastics: Simulation
-- [ ] Stochastics: Valuation
-- [ ] Stochastics: Risk Measures
-- [ ] Statistics: Normality Tests
-- [ ] Statistics: Portfolio Optimization
-- [ ] Statistics: Bayesian Statistics
-- [ ] Statistics: Machine Learning
-- [ ] Algorithmic Trading: FXCM Trading Platform
-- [ ] Algorithmic Trading: Trading Strategies
-- [ ] Algorithmic Trading: Automated Trading
-- [ ] Derivatives Analytics: Valuation Framework
-- [ ] Derivatives Analytics: Simulation of Financial Models
-- [ ] Derivatives Analytics: Derivatives Valuation
-- [ ] Derivatives Analytics: Portfolio Valuation
-- [ ] Derivatives Analytics: Markdet-Based Valuation
-
-
-### Data Science at the Command Line
-- [ ] Baisc Unix Commands (List of Command-Line Tools)
-- [ ] Obtaining data via command line
-- [ ] Creating Command-line Tools
-- [ ] Scrubbing Data at the command line
-- [ ] Project management with MAke
-- [ ] Exploring data at the command line
-- [ ] Parallel Pipelines at the command line
-- [ ] Modeling Data at the command line
-- [ ] Polyglotting Data Science
-
-### Holoviews
-- [ ] Introduction to Holoviews
-- [ ] Holoviews: Customization
-- [ ] Holoviews: Tabular Datasets
-- [ ] Holoviews: Gridded Datasets
-- [ ] Holoviews: Live Data/ Streaming Data
-- [ ] Holoviews: Annotating Data
-- [ ] Holoviews: Composing Elements
-- [ ] Holoviews: Applying Customization
-- [ ] Holoviews: Style Mapping
-- [ ] Holoviews: Dimensioned Containers
-- [ ] Holoviews: Building Composite Objects
-- [ ] Holoviews: Live Data Adv
-- [ ] Holoviews: Tabular Data Adv
-- [ ] Holoviews: Gridded Datasets Adv
-- [ ] Holoviews: Geometry Data
-- [ ] Holoviews: Indexing and Selecting Data
-- [ ] Holoviews: Transforming Elements
-- [ ] Holoviews: Responding to Events
-- [ ] Holoviews: Custom Interactivity
-- [ ] Holoviews: Data Processing Piplines
-- [ ] Holoviews: Creating interactive network graphs
-- [ ] Holoviews: Working with large data
-- [ ] Holoviews: Working with Streaming Data
-- [ ] Holoviews: Creating interactive dashboards
 
 ### D3
 - [ ] Introduction to D3
@@ -135,6 +55,80 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] D3: Structural Array Manipulations
 - [ ] D3: Describitive Statistics for Numerical Arrays
 - [ ] D3: Working with Dates and Timestamps
+
+### Data Science at the Command Line
+- [ ] Baisc Unix Commands (List of Command-Line Tools)
+- [ ] Obtaining data via command line
+- [ ] Creating Command-line Tools
+- [ ] Scrubbing Data at the command line
+- [ ] Project management with MAke
+- [ ] Exploring data at the command line
+- [ ] Parallel Pipelines at the command line
+- [ ] Modeling Data at the command line
+- [ ] Polyglotting Data Science
+
+### Python for Finance
+- [ ] Financial Data
+- [ ] Rolling Statistics
+- [ ] Correlation Analysis
+- [ ] High-Frequency Data
+- [ ] I/O PyTanles
+- [ ] I/O TsTables
+- [ ] Performance Python: Loops
+- [ ] Performance Python: Algorithms
+- [ ] Performance Python: Binomial Trees
+- [ ] Performance Python: Monte Carlo Simulation
+- [ ] Performance Python: Recursive PAndas Algorithm
+- [ ] Mathematical Tools: Approximation
+- [ ] Mathematical Tools: Convex Optimization
+- [ ] Mathematical Tools: Integration
+- [ ] Mathematical Tools: Symbolic Computation
+- [ ] Stochastics: Random Numbers
+- [ ] Stochastics: Simulation
+- [ ] Stochastics: Valuation
+- [ ] Stochastics: Risk Measures
+- [ ] Statistics: Normality Tests
+- [ ] Statistics: Portfolio Optimization
+- [ ] Statistics: Bayesian Statistics
+- [ ] Statistics: Machine Learning
+- [ ] Algorithmic Trading: FXCM Trading Platform
+- [ ] Algorithmic Trading: Trading Strategies
+- [ ] Algorithmic Trading: Automated Trading
+- [ ] Derivatives Analytics: Valuation Framework
+- [ ] Derivatives Analytics: Simulation of Financial Models
+- [ ] Derivatives Analytics: Derivatives Valuation
+- [ ] Derivatives Analytics: Portfolio Valuation
+- [ ] Derivatives Analytics: Markdet-Based Valuation
+
+
+
+
+### Holoviews
+- [ ] Introduction to Holoviews
+- [ ] Holoviews: Customization
+- [ ] Holoviews: Tabular Datasets
+- [ ] Holoviews: Gridded Datasets
+- [ ] Holoviews: Live Data/ Streaming Data
+- [ ] Holoviews: Annotating Data
+- [ ] Holoviews: Composing Elements
+- [ ] Holoviews: Applying Customization
+- [ ] Holoviews: Style Mapping
+- [ ] Holoviews: Dimensioned Containers
+- [ ] Holoviews: Building Composite Objects
+- [ ] Holoviews: Live Data Adv
+- [ ] Holoviews: Tabular Data Adv
+- [ ] Holoviews: Gridded Datasets Adv
+- [ ] Holoviews: Geometry Data
+- [ ] Holoviews: Indexing and Selecting Data
+- [ ] Holoviews: Transforming Elements
+- [ ] Holoviews: Responding to Events
+- [ ] Holoviews: Custom Interactivity
+- [ ] Holoviews: Data Processing Piplines
+- [ ] Holoviews: Creating interactive network graphs
+- [ ] Holoviews: Working with large data
+- [ ] Holoviews: Working with Streaming Data
+- [ ] Holoviews: Creating interactive dashboards
+
 
 ### Machine Learning with Scikit-Learn
 - [ ] ML with Scikit-Learn: End-to-End Project
@@ -231,3 +225,11 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [X] Deploying Interactive Bokeh Server App (idea by boycottapple)
 - [X] Enters tickers textinput + search + variance graph (idea by 오즈의 콜맨)
 - [X] FileInput Widget and Multiple Data Sources (idea by Romulo Alvarez Garcia)
+
+### SQLite
+- [X] SELECT
+- [X] WHERE
+- [X] GROUP BY & ORDER BY
+- [X] CASE Statements
+- [X] JOIN
+
