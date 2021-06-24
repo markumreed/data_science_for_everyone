@@ -57,7 +57,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] D3: Working with Dates and Timestamps
 
 ### Data Science at the Command Line
-- [ ] Baisc Unix Commands (List of Command-Line Tools)
+- [ ] Baisc Unix Commands
 - [ ] Obtaining data via command line
 - [ ] Creating Command-line Tools
 - [ ] Scrubbing Data at the command line
@@ -99,9 +99,6 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] Derivatives Analytics: Derivatives Valuation
 - [ ] Derivatives Analytics: Portfolio Valuation
 - [ ] Derivatives Analytics: Markdet-Based Valuation
-
-
-
 
 ### Holoviews
 - [ ] Introduction to Holoviews
