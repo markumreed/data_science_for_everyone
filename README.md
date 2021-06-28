@@ -22,39 +22,16 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] MySQL: Metadata
 
 ### D3
-- [ ] Introduction to D3
-- [ ] D3: Basics I
-- [ ] D3: Basics II
-- [ ] D3: Basics III
-- [ ] D3: Selections
-- [ ] D3: Binding Data
-- [ ] D3: Manipulating Selections
-- [ ] D3: Shared Information Among Selections
-- [ ] D3: Events
-- [ ] D3: Exploring Graphs with the Mouse
-- [ ] D3: Smooth Transitions
-- [ ] D3: Animation with Timed Events
-- [ ] D3: Genorators, Components, and Layouts
-- [ ] D3: Symbols
-- [ ] D3: Lines and Curves
-- [ ] D3: Circles, Arcs, and Pie Charts
-- [ ] D3: Other Shapes
-- [ ] D3: Writing Custom Components
-- [ ] D3: Fetching a File
-- [ ] D3: Parsing and Writing Tabular Data
-- [ ] D3: Formatting Numbers
-- [ ] D3: Interpolation
-- [ ] D3: Scales
-- [ ] D3: Axes
-- [ ] D3: Colors and Color Space Conversions
-- [ ] D3: Color Schemes
-- [ ] D3: Color Scales
-- [ ] D3: False-Color Graphs and Other Techniques
-- [ ] D3: Trees and Hierarchial Data Structures
-- [ ] D3: Force-Based Particle Arragements
-- [ ] D3: Structural Array Manipulations
-- [ ] D3: Describitive Statistics for Numerical Arrays
-- [ ] D3: Working with Dates and Timestamps
+- [X] D3: Setup 
+- [X] D3: DOM Selection
+- [X] D3: DOM Manipulation
+- [X] D3: Method Chaining and Functions of Data
+- [X] D3: Events
+- [X] D3: Animation
+- [ ] D3: Data Binding
+- [ ] D3: Data Loading
+- [ ] D3: Create SVG Elements
+- [ ] D3: Create SVG Chart
 
 ### Data Science at the Command Line
 - [ ] Baisc Unix Commands
