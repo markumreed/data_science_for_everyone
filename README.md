@@ -3,20 +3,11 @@
 Welcome everyone to the Data Science for Everyone video request page. Below you'll out TODO list of videos. Some have been requested by viewers others are created out of need or interest. 
 
 ## Video TODO List
-### SQLite
-- [ ] Why SQL and Databases?
-- [X] SELECT
-- [X] WHERE
-- [X] GROUP BY & ORDER BY
-- [X] CASE Statements
-- [X] JOIN
-- [ ] DataBase Design
-- [ ] Managing Data
 
 ### MySQL
-- [ ] MySQL: Introduction to MySQL
-- [ ] MySQL: Creating and Populating a Database
-- [ ] MySQL: Query Primer
+- [X] MySQL: Introduction to MySQL
+- [X] MySQL: Creating and Populating a Database
+- [X] MySQL: Query Primer
 - [ ] MySQL: Filtering
 - [ ] MySQL: Querying Multiple Tables
 - [ ] MySQL: Working with Sets
@@ -29,6 +20,52 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] MySQL: Indexes and Constraints
 - [ ] MySQL: Views
 - [ ] MySQL: Metadata
+
+### D3
+- [ ] Introduction to D3
+- [ ] D3: Basics I
+- [ ] D3: Basics II
+- [ ] D3: Basics III
+- [ ] D3: Selections
+- [ ] D3: Binding Data
+- [ ] D3: Manipulating Selections
+- [ ] D3: Shared Information Among Selections
+- [ ] D3: Events
+- [ ] D3: Exploring Graphs with the Mouse
+- [ ] D3: Smooth Transitions
+- [ ] D3: Animation with Timed Events
+- [ ] D3: Genorators, Components, and Layouts
+- [ ] D3: Symbols
+- [ ] D3: Lines and Curves
+- [ ] D3: Circles, Arcs, and Pie Charts
+- [ ] D3: Other Shapes
+- [ ] D3: Writing Custom Components
+- [ ] D3: Fetching a File
+- [ ] D3: Parsing and Writing Tabular Data
+- [ ] D3: Formatting Numbers
+- [ ] D3: Interpolation
+- [ ] D3: Scales
+- [ ] D3: Axes
+- [ ] D3: Colors and Color Space Conversions
+- [ ] D3: Color Schemes
+- [ ] D3: Color Scales
+- [ ] D3: False-Color Graphs and Other Techniques
+- [ ] D3: Trees and Hierarchial Data Structures
+- [ ] D3: Force-Based Particle Arragements
+- [ ] D3: Structural Array Manipulations
+- [ ] D3: Describitive Statistics for Numerical Arrays
+- [ ] D3: Working with Dates and Timestamps
+
+### Data Science at the Command Line
+- [ ] Baisc Unix Commands
+- [ ] Obtaining data via command line
+- [ ] Creating Command-line Tools
+- [ ] Scrubbing Data at the command line
+- [ ] Project management with MAke
+- [ ] Exploring data at the command line
+- [ ] Parallel Pipelines at the command line
+- [ ] Modeling Data at the command line
+- [ ] Polyglotting Data Science
 
 ### Python for Finance
 - [ ] Financial Data
@@ -63,18 +100,6 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] Derivatives Analytics: Portfolio Valuation
 - [ ] Derivatives Analytics: Markdet-Based Valuation
 
-
-### Data Science at the Command Line
-- [ ] Baisc Unix Commands (List of Command-Line Tools)
-- [ ] Obtaining data via command line
-- [ ] Creating Command-line Tools
-- [ ] Scrubbing Data at the command line
-- [ ] Project management with MAke
-- [ ] Exploring data at the command line
-- [ ] Parallel Pipelines at the command line
-- [ ] Modeling Data at the command line
-- [ ] Polyglotting Data Science
-
 ### Holoviews
 - [ ] Introduction to Holoviews
 - [ ] Holoviews: Customization
@@ -101,34 +126,6 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] Holoviews: Working with Streaming Data
 - [ ] Holoviews: Creating interactive dashboards
 
-### D3
-- [ ] Introduction to D3
-- [ ] Technology Fundamentals: HTML
-- [ ] Technology Fundamentals: DOM
-- [ ] Technology Fundamentals: CSS
-- [ ] Technology Fundamentals: JavaScript
-- [ ] Technology Fundamentals: Server Setup
-- [ ] D3: Setup
-- [ ] D3: Data
-- [ ] D3: Drawing with Data
-- [ ] D3: Single Dataset
-- [ ] D3: Two Datasets
-- [ ] D3: Animating List Items
-- [ ] D3: Selecting and Binding
-- [ ] D3: Events, Interactivty, and Animation
-- [ ] D3: Generators, Components, Layouts
-- [ ] D3: Getting Data
-- [ ] D3: Interpolations, Scales, and Axes
-- [ ] D3: Colors, Color Scales, and Heatmaps
-- [ ] D3: Trees and Networks
-- [ ] D3: Utilities: Arrays, Statistics, and Timestamps
-- [ ] D3: Updates, Transitions, and Motion
-- [ ] D3: Interactivity
-- [ ] D3: Using Paths
-- [ ] D3: Layouts
-- [ ] D3: Geomapping
-- [ ] D3: Exporting
-- [ ] D3: Full Project Example
 
 ### Machine Learning with Scikit-Learn
 - [ ] ML with Scikit-Learn: End-to-End Project
@@ -224,3 +221,12 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [X] Setup Bokeh Application Server with DigitalOcean (idea by boycottapple)
 - [X] Deploying Interactive Bokeh Server App (idea by boycottapple)
 - [X] Enters tickers textinput + search + variance graph (idea by 오즈의 콜맨)
+- [X] FileInput Widget and Multiple Data Sources (idea by Romulo Alvarez Garcia)
+
+### SQLite
+- [X] SELECT
+- [X] WHERE
+- [X] GROUP BY & ORDER BY
+- [X] CASE Statements
+- [X] JOIN
+
