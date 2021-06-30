@@ -28,10 +28,11 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [X] D3: Method Chaining and Functions of Data
 - [X] D3: Events
 - [X] D3: Animation
-- [ ] D3: Data Binding
-- [ ] D3: Data Loading
-- [ ] D3: Create SVG Elements
-- [ ] D3: Create SVG Chart
+- [X] D3: Data Binding
+- [X] D3: Data Loading
+- [X] D3: Create SVG Elements
+- [ ] D3: Create SVG Bar Chart
+- [ ] D3: Create SVG Circle Chart
 - [ ] D3: Scales
 - [ ] D3: Axes
 - [ ] D3: Bar Chart
