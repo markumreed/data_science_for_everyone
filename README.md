@@ -4,6 +4,10 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 
 ## Video TODO List
 
+### REQUESTED VIDEOS
+- [ ] BOKEH: CustomJS (idea by Kai Chen)
+- [ ] BOKEH: __More Tutorials__ (idea by Kai Chen)
+
 ### MySQL
 - [X] MySQL: Introduction to MySQL
 - [X] MySQL: Creating and Populating a Database
