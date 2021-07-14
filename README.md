@@ -39,9 +39,9 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [X] D3: Create SVG Circle Chart
 - [X] D3: Scales
 - [X] D3: Axes
-- [ ] D3: Bar Chart
-- [ ] D3: Animated Bar Chart
-- [ ] D3: Pie Chart 
+- [X] D3: Bar Chart
+- [X] D3: Animated Bar Chart
+- [X] D3: Pie Chart 
 
 ### Data Science at the Command Line
 - [ ] Baisc Unix Commands
