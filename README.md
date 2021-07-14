@@ -42,6 +42,42 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [X] D3: Bar Chart
 - [X] D3: Animated Bar Chart
 - [X] D3: Pie Chart 
+- [ ] D3: Violin Plot
+- [ ] D3: Density Plot
+- [ ] D3: Histograms
+- [ ] D3: Boxplots
+- [ ] D3: Ridgeline
+- [ ] D3: Scatter Plots
+- [ ] D3: Heatmap
+- [ ] D3: Correlogram
+- [ ] D3: Bubble Chart
+- [ ] D3: Density 2d
+- [ ] D3: More Barplots
+- [ ] D3: Spider/Radar Plots 
+- [ ] D3: Wordcloud
+- [ ] D3: Parallel
+- [ ] D3: Lollipop
+- [ ] D3: Circular Barplot
+- [ ] D3: Treemap
+- [ ] D3: Doughnuts (Again)
+- [ ] D3: More Pie Charts
+- [ ] D3: Dendrogram
+- [ ] D3: Circular packing
+- [ ] D3: Line Plot
+- [ ] D3: Area
+- [ ] D3: Stacked area
+- [ ] D3: Streamchart
+- [ ] D3: Map
+- [ ] D3: Choropleth
+- [ ] D3: Hexbin map
+- [ ] D3: Cartogram
+- [ ] D3: Connection
+- [ ] D3: Bubble map
+- [ ] D3: Chord Diagram
+- [ ] D3: Network
+- [ ] D3: Sankey
+- [ ] D3: Arc Diagram
+- [ ] D3: Edge bundling
 
 ### Data Science at the Command Line
 - [ ] Baisc Unix Commands
