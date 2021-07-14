@@ -4,6 +4,10 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 
 ## Video TODO List
 
+### REQUESTED VIDEOS
+- [ ] BOKEH: CustomJS (idea by Kai Chen)
+- [ ] BOKEH: __More Tutorials__ (idea by Kai Chen)
+
 ### MySQL
 - [X] MySQL: Introduction to MySQL
 - [X] MySQL: Creating and Populating a Database
@@ -31,24 +35,13 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [X] D3: Data Binding
 - [X] D3: Data Loading
 - [X] D3: Create SVG Elements
-- [ ] D3: Create SVG Bar Chart
-- [ ] D3: Create SVG Circle Chart
-- [ ] D3: Scales
-- [ ] D3: Axes
+- [X] D3: Create SVG Bar Chart
+- [X] D3: Create SVG Circle Chart
+- [X] D3: Scales
+- [X] D3: Axes
 - [ ] D3: Bar Chart
 - [ ] D3: Animated Bar Chart
 - [ ] D3: Pie Chart 
-- [ ] D3: Simple Scatterplot
-- [ ] D3: Simple Line Chart
-- [ ] D3: Animate List Items
-- [ ] D3: Selecting and Binding Data
-- [ ] D3: Events, Interactivity, and Animation
-- [ ] D3: Generators, Components, and Layouts
-- [ ] D3: Files, Fetches, and Formats
-- [ ] D3: Interpolations, Scales, and Axes
-- [ ] D3: Colors, Color Scales, and Heatmaps
-- [ ] D3: Trees and Networks
-- [ ] D3: Arrays, Statistics, and Timestamps
 
 ### Data Science at the Command Line
 - [ ] Baisc Unix Commands
