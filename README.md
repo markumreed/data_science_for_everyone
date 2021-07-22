@@ -6,9 +6,9 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 
 ### REQUESTED VIDEOS
 - [ ] BOKEH: CustomJS (idea by Kai Chen)
-    - [ ] Bokeh CustomJS for Selections
-    - [ ] Bokeh CustomJS for Ranges
-    - [ ] Bokeh CustomJS for Tools
+    - [X] Bokeh CustomJS for Selections
+    - [X] Bokeh CustomJS for Ranges
+    - [X] Bokeh CustomJS for Tools
     - [ ] Bokeh CustomJS for Hover Tools
 - [ ] BOKEH: __More Tutorials__ (idea by Kai Chen)
     - [ ] Bokeh OpenURL
