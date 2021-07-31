@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.3.1.min.js" integrity="sha384-YF85VygJKMVnHE+lLv2AM93Vbstr0yo2TbIu5v8se5Rq3UQAUmcuh4aaJwNlpKwa" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="947acf00-5086-41ee-9b19-bb746cd13d0f" data-root-id="1004"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1132">
+          {"76223067-3d77-409d-a378-1a2821d6d5e1":{"defs":[],"roots":{"references":[{"attributes":{},"id":"1034","type":"AllLabels"},{"attributes":{"overlay":{"id":"1025"}},"id":"1023","type":"BoxSelectTool"},{"attributes":{},"id":"1037","type":"AllLabels"},{"attributes":{"args":{"source":{"id":"1002"}},"code":"\nconst geometry = cb_obj['geometry'];\nconst data = source.data\n\n// Calculation of Rect Attributes\nconst width = geometry['x1'] - geometry['x0']\nconst height = geometry['y1'] - geometry['y0']\nconst x = geometry['x0'] + width / 2;\nconst y = geometry['y0'] + height / 2;\n\n// Update Data\n\ndata['x'].push(x);\ndata['y'].push(y);\ndata['width'].push(width);\ndata['height'].push(height);\n\nsource.change.emit()\n"},"id":"1003","type":"CustomJS"},{"attributes":{},"id":"1035","type":"BasicTickFormatter"},{"attributes":{},"id":"1038","type":"BasicTickFormatter"},{"attributes":{},"id":"1039","type":"Selection"},{"attributes":{"source":{"id":"1002"}},"id":"1031","type":"CDSView"},{"attributes":{},"id":"1013","type":"LinearScale"},{"attributes":{},"id":"1011","type":"LinearScale"},{"attributes":{},"id":"1040","type":"UnionRenderers"},{"attributes":{"formatter":{"id":"1038"},"major_label_policy":{"id":"1037"},"ticker":{"id":"1020"}},"id":"1019","type":"LinearAxis"},{"attributes":{"data":{"height":[],"width":[],"x":[],"y":[]},"selected":{"id":"1039"},"selection_policy":{"id":"1040"}},"id":"1002","type":"ColumnDataSource"},{"attributes":{},"id":"1016","type":"BasicTicker"},{"attributes":{"bottom_units":"screen","fill_alpha":0.5,"fill_color":"lightgrey","left_units":"screen","level":"overlay","line_alpha":1.0,"line_color":"black","line_dash":[4,4],"line_width":2,"right_units":"screen","syncable":false,"top_units":"screen"},"id":"1025","type":"BoxAnnotation"},{"attributes":{},"id":"1007","type":"Range1d"},{"attributes":{"axis":{"id":"1015"},"ticker":null},"id":"1018","type":"Grid"},{"attributes":{"data_source":{"id":"1002"},"glyph":{"id":"1029"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1029"},"selection_glyph":{"id":"1029"},"view":{"id":"1031"}},"id":"1030","type":"GlyphRenderer"},{"attributes":{"below":[{"id":"1015"}],"center":[{"id":"1018"},{"id":"1022"}],"height":500,"js_event_callbacks":{"selectiongeometry":[{"id":"1003"}]},"left":[{"id":"1019"}],"renderers":[{"id":"1030"}],"title":{"id":"1005"},"toolbar":{"id":"1026"},"width":500,"x_range":{"id":"1007"},"x_scale":{"id":"1011"},"y_range":{"id":"1009"},"y_scale":{"id":"1013"}},"id":"1004","subtype":"Figure","type":"Plot"},{"attributes":{"text":"Make Selection Below"},"id":"1005","type":"Title"},{"attributes":{"formatter":{"id":"1035"},"major_label_policy":{"id":"1034"},"ticker":{"id":"1016"}},"id":"1015","type":"LinearAxis"},{"attributes":{"axis":{"id":"1019"},"dimension":1,"ticker":null},"id":"1022","type":"Grid"},{"attributes":{},"id":"1020","type":"BasicTicker"},{"attributes":{},"id":"1009","type":"Range1d"},{"attributes":{"active_multi":null,"tools":[{"id":"1023"},{"id":"1024"}]},"id":"1026","type":"Toolbar"},{"attributes":{"fill_alpha":{"value":0.4},"fill_color":{"value":"#B22222"},"height":{"field":"height"},"width":{"field":"width"},"x":{"field":"x"},"y":{"field":"y"}},"id":"1029","type":"Rect"},{"attributes":{},"id":"1024","type":"ResetTool"}],"root_ids":["1004"]},"title":"Bokeh Application","version":"2.3.1"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1132').textContent;
+                  var render_items = [{"docid":"76223067-3d77-409d-a378-1a2821d6d5e1","root_ids":["1004"],"roots":{"1004":"947acf00-5086-41ee-9b19-bb746cd13d0f"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
