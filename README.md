@@ -5,8 +5,13 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 ## Video TODO List
 
 ### REQUESTED VIDEOS
-- [ ] BOKEH: CustomJS (idea by Kai Chen)
+- [X] BOKEH: CustomJS (idea by Kai Chen)
+    - [X] Bokeh CustomJS for Selections
+    - [X] Bokeh CustomJS for Ranges
+    - [X] Bokeh CustomJS for Tools
+    - [X] Bokeh CustomJS for Hover Tools
 - [ ] BOKEH: __More Tutorials__ (idea by Kai Chen)
+    - [X] Bokeh OpenURL
 
 ### MySQL
 - [X] MySQL: Introduction to MySQL
@@ -97,31 +102,37 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] High-Frequency Data
 - [ ] I/O PyTanles
 - [ ] I/O TsTables
-- [ ] Performance Python: Loops
-- [ ] Performance Python: Algorithms
-- [ ] Performance Python: Binomial Trees
-- [ ] Performance Python: Monte Carlo Simulation
-- [ ] Performance Python: Recursive PAndas Algorithm
-- [ ] Mathematical Tools: Approximation
-- [ ] Mathematical Tools: Convex Optimization
-- [ ] Mathematical Tools: Integration
-- [ ] Mathematical Tools: Symbolic Computation
-- [ ] Stochastics: Random Numbers
-- [ ] Stochastics: Simulation
-- [ ] Stochastics: Valuation
-- [ ] Stochastics: Risk Measures
-- [ ] Statistics: Normality Tests
-- [ ] Statistics: Portfolio Optimization
-- [ ] Statistics: Bayesian Statistics
-- [ ] Statistics: Machine Learning
-- [ ] Algorithmic Trading: FXCM Trading Platform
-- [ ] Algorithmic Trading: Trading Strategies
-- [ ] Algorithmic Trading: Automated Trading
-- [ ] Derivatives Analytics: Valuation Framework
-- [ ] Derivatives Analytics: Simulation of Financial Models
-- [ ] Derivatives Analytics: Derivatives Valuation
-- [ ] Derivatives Analytics: Portfolio Valuation
-- [ ] Derivatives Analytics: Markdet-Based Valuation
+- [ ] Performance Python: 
+    - [ ] Loops
+    - [ ] Algorithms
+    - [ ] Binomial Trees
+    - [ ] Monte Carlo Simulation
+    - [ ] Recursive Pandas Algorithm
+- [ ] Mathematical Tools: 
+    - [ ] Approximation
+    - [ ] Convex Optimization
+    - [ ] Integration
+    - [ ] Symbolic Computation
+- [ ] Stochastics: 
+    - [ ] Random Numbers
+    - [ ] Simulation
+    - [ ] Valuation
+    - [ ] Risk Measures
+- [ ] Statistics: 
+    - [ ] Normality Tests
+    - [ ] Portfolio Optimization
+    - [ ] Bayesian Statistics
+    - [ ] Machine Learning
+- [ ] Algorithmic Trading: 
+    - [ ] FXCM Trading Platform
+    - [ ] Trading Strategies
+    - [ ] Automated Trading
+- [ ] Derivatives Analytics: 
+    - [ ] Valuation Framework
+    - [ ] Simulation of Financial Models
+    - [ ] Derivatives Valuation
+    - [ ] Portfolio Valuation
+    - [ ] Market-Based Valuation
 
 ### Holoviews
 - [ ] Introduction to Holoviews
