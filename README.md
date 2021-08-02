@@ -11,7 +11,10 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
     - [X] Bokeh CustomJS for Tools
     - [X] Bokeh CustomJS for Hover Tools
 - [ ] BOKEH: __More Tutorials__ (idea by Kai Chen)
-    - [X] Bokeh OpenURL
+    - [X] Bokeh OpenUR
+    - [X] Plotting Financial Time Series with Bokeh
+    - [X] Bokeh: Plotting Stock Data with a Range Tool 
+    - [ ] 
 
 ### MySQL
 - [X] MySQL: Introduction to MySQL
@@ -133,33 +136,6 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
     - [ ] Derivatives Valuation
     - [ ] Portfolio Valuation
     - [ ] Market-Based Valuation
-
-### Holoviews
-- [ ] Introduction to Holoviews
-- [ ] Holoviews: Customization
-- [ ] Holoviews: Tabular Datasets
-- [ ] Holoviews: Gridded Datasets
-- [ ] Holoviews: Live Data/ Streaming Data
-- [ ] Holoviews: Annotating Data
-- [ ] Holoviews: Composing Elements
-- [ ] Holoviews: Applying Customization
-- [ ] Holoviews: Style Mapping
-- [ ] Holoviews: Dimensioned Containers
-- [ ] Holoviews: Building Composite Objects
-- [ ] Holoviews: Live Data Adv
-- [ ] Holoviews: Tabular Data Adv
-- [ ] Holoviews: Gridded Datasets Adv
-- [ ] Holoviews: Geometry Data
-- [ ] Holoviews: Indexing and Selecting Data
-- [ ] Holoviews: Transforming Elements
-- [ ] Holoviews: Responding to Events
-- [ ] Holoviews: Custom Interactivity
-- [ ] Holoviews: Data Processing Piplines
-- [ ] Holoviews: Creating interactive network graphs
-- [ ] Holoviews: Working with large data
-- [ ] Holoviews: Working with Streaming Data
-- [ ] Holoviews: Creating interactive dashboards
-
 
 ### Machine Learning with Scikit-Learn
 - [ ] ML with Scikit-Learn: End-to-End Project
