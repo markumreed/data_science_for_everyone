@@ -4,6 +4,92 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 
 ## Video TODO List
 
+### statsmodels
+- [ ] Introduction to statsmodels
+- [ ] The Datasets Package
+- [ ] Getting Started with statsmodels
+- [ ] Linear Regression with statsmodels
+- [ ] Generalized Linear Models with statsmodels
+- [ ] Generalized Estimating Equations with statsmodels
+- [ ] Robust Linear Models with statsmodels
+- [ ] Linear Mixed Effects Models with statsmodels
+- [ ] Regression with Discrete Dependent Variable with statsmodels
+- [ ] Generalized Linear Mixed Effects Models with statsmodels
+- [ ] ANOVA with statsmodels
+- [ ] Time series analysis (tsa) with statsmodels
+- [ ] Time series analysis by Stats Space Methods (statespace) with statsmodels
+- [ ] Vector Autoregressions (tsa.vector\_ar) with statsmodels
+- [ ] Methods for Survival and Duration Analysis with statsmodels
+- [ ] Nonparametric Methods (nonparametric) with statsmodels
+- [ ] Generalized Method of Moments (gmm) with statsmodels
+- [ ] Other Models (miscmodels) with statsmodels
+- [ ] Multivariate Statistics (multivariate) with statsmodels
+- [ ] Ordinary Least Squares Example
+- [ ] Generalized Least Squares Example
+- [ ] Quantile Regression Example
+- [ ] Recursive Least Squares Example
+- [ ] Rolling Least Squares Example
+- [ ] Regression Diagnostics Example
+- [ ] Weighted Least Squares Example
+- [ ] Linear Mixed-Effects Example
+- [ ] Variance Component Analysis Example
+- [ ] Regression Plots
+- [ ] Categorical Interaction Plots
+- [ ] Box Plots
+- [ ] Discrete Choice Models: Getting Started
+- [ ] Fair's Affairs Data
+- [ ] Univariate Kernel Density Estimator
+- [ ] Generalized Linear Models Overview
+- [ ] Using Formulas with GLMs
+- [ ] Weighting Observations with GLMs
+- [ ] Influence Measures for GLMs
+- [ ] Quasi-binomial regression
+- [ ] M-estimator for Robust Regression
+- [ ] Comparing OLS and RLM
+- [ ] GEE Nested Covariance Structure
+- [ ] GEE Score Tests
+- [ ] ANOVA 2 
+- [ ] Meta-Analysis in statsmodels
+- [ ] Mediation analysis with duration data
+- [ ] Autoregressions
+- [ ] Deterministic Terms
+- [ ] ARMA: Sunspots Data
+- [ ] ARMA: Artifical Data
+- [ ] Time Series Filters
+- [ ] Markov switching dynamic regression
+- [ ] Markov switching autoregression
+- [ ] Exponential Smoothing
+- [ ] Seasonal Decomposition
+- [ ] Stationarity and detrending (ADF/KPSS)
+- [ ] SARIMAX: Introduction
+- [ ] SARIMAX: Model selection, missing data
+- [ ] VARMAX: Introduction
+- [ ] Dynamic Factor Models: Application
+- [ ] Unobserved Components: Application
+- [ ] Trends and cycles in unemployment
+- [ ]State space modeling: Local Linear Trends
+- [ ] Statespace ARMA: Sunspots Data
+- [ ] Seasonality in Time Series Data
+- [ ] Fixed / constrained parameters in state space models 
+- [ ] TVP-VAR, MCMC, and sparse simulation smoothing
+- [ ] SARIMAX estimation with Bayesian methods
+- [ ] Forecasting, updating datasets, and the "news"
+- [ ] Statespace: Custom Models
+- [ ] ETS models
+- [ ] Statespace models: concentraing out the scale
+- [ ] State space models: Charndrasekhar recursions
+- [ ] Forecasting using the Theta Model
+- [ ] Principal Component Analysis
+- [ ] Constrasts
+- [ ] Formulas
+- [ ] Prediction
+- [ ] Forcasting in statsmodels
+- [ ] Generic Maximum Likelihood
+- [ ] Dates in Time-Series Models
+- [ ] Least squares fitting of models to data
+- [ ] Distrubuted Estimations
+
+
 ### REQUESTED VIDEOS
 - [X] BOKEH: CustomJS (idea by Kai Chen)
     - [X] Bokeh CustomJS for Selections
