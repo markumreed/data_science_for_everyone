@@ -4,10 +4,70 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 
 ## Video TODO List
 
+### Data Science for Kids
+- [ ] Drawing with p5.js: Canvas
+- [ ] Drawing with p5.js: Basic Shapes
+- [ ] Drawing with p5.js: Drawing Order 
+- [ ] Drawing with p5.js: Shape Properties
+- [ ] Drawing with p5.js: Color
+- [ ] Drawing with p5.js: Custom Shapes 
+- [ ] Drawing with p5.js: Comments
+- [ ] Drawing with p5.js: Robot 1
+- [ ] Variables with p5.js: First Variables
+- [ ] Variables with p5.js: Making Variables
+- [ ] Variables with p5.js: p5.js Variables
+- [ ] Variables with p5.js: A little Math 
+- [ ] Variables with p5.js: Repetition
+- [ ] Variables with p5.js: Robot 2 
+- [ ] Response with p5.js: Once and Forever
+- [ ] Response with p5.js: Follow
+- [ ] Response with p5.js: Click
+- [ ] Response with p5.js: Location 
+- [ ] Response with p5.js: Type
+- [ ] Response with p5.js: Touch
+- [ ] Response with p5.js: Map
+- [ ] Response with p5.js: Robot 3 
+- [ ] Translate, Rotate, Scale with p5.js: Translate  
+- [ ] Translate, Rotate, Scale with p5.js: Rotate 
+- [ ] Translate, Rotate, Scale with p5.js: Scale 
+- [ ] Translate, Rotate, Scale with p5.js: Push and Pop
+- [ ] Translate, Rotate, Scale with p5.js: Robot 4 
+- [ ] Media with p5.js: Images
+- [ ] Media with p5.js: Asynchronicity
+- [ ] Media with p5.js: Fonts
+- [ ] Media with p5.js: Robot 5
+- [ ] Motion with p5.js: Frames
+- [ ] Motion with p5.js: Speed and Direction
+- [ ] Motion with p5.js: Tweening
+- [ ] Motion with p5.js: Random
+- [ ] Motion with p5.js: Timers
+- [ ] Motion with p5.js: Circular
+- [ ] Motion with p5.js: Robot 6 
+- [ ] Functions with p5.js: Function Basics 
+- [ ] Functions with p5.js: Make a Function 
+- [ ] Functions with p5.js: Return Values
+- [ ] Functions with p5.js: Robot 7
+- [ ] Objects with p5.js: Properties, Methods, and Constructors
+- [ ] Objects with p5.js: Create Objects
+- [ ] Objects with p5.js: Robot 8
+- [ ] Arrays  with p5.js: From Variables to Arrays
+- [ ] Arrays  with p5.js: Make an Array 
+- [ ] Arrays  with p5.js: Repetition and Arrays
+- [ ] Arrays  with p5.js: Arrays of Objects
+- [ ] Arrays  with p5.js: Robot 9
+- [ ] Data with p5.js: Data Summary and Tables
+- [ ] Data with p5.js: JSON 
+- [ ] Data with p5.js: Network Data and APIs
+- [ ] Data with p5.js: Robot 10
+- [ ] Extend with p5.js: p5.sound
+- [ ] Extend with p5.js: p5.dom
+- [ ] Extend with p5.js: ml5.js
+
 ### statsmodels
-- [ ] Introduction to statsmodels
+- [X] Introduction to statsmodels
 - [ ] The Datasets Package
-- [ ] Getting Started with statsmodels
+- [X] Getting Started with statsmodels
+- [ ] Fitting Models Using R-style Formulas
 - [ ] Linear Regression with statsmodels
 - [ ] Generalized Linear Models with statsmodels
 - [ ] Generalized Estimating Equations with statsmodels
@@ -67,7 +127,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] Dynamic Factor Models: Application
 - [ ] Unobserved Components: Application
 - [ ] Trends and cycles in unemployment
-- [ ]State space modeling: Local Linear Trends
+- [ ] State space modeling: Local Linear Trends
 - [ ] Statespace ARMA: Sunspots Data
 - [ ] Seasonality in Time Series Data
 - [ ] Fixed / constrained parameters in state space models 
