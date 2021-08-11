@@ -5,7 +5,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 ## Video TODO List
 
 ### Data Science for Kids
-- [ ] Drawing with p5.js: Canvas
+- [X] Drawing with p5.js: Canvas
 - [ ] Drawing with p5.js: Basic Shapes
 - [ ] Drawing with p5.js: Drawing Order 
 - [ ] Drawing with p5.js: Shape Properties
@@ -67,7 +67,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [X] Introduction to statsmodels
 - [ ] The Datasets Package
 - [X] Getting Started with statsmodels
-- [ ] Fitting Models Using R-style Formulas
+- [X] Fitting Models Using R-style Formulas
 - [ ] Linear Regression with statsmodels
 - [ ] Generalized Linear Models with statsmodels
 - [ ] Generalized Estimating Equations with statsmodels
@@ -160,7 +160,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
     - [X] Bokeh OpenUR
     - [X] Plotting Financial Time Series with Bokeh
     - [X] Bokeh: Plotting Stock Data with a Range Tool 
-    - [ ] 
+    - [ ] Bokeh: Countries Connection Map
 
 ### MySQL
 - [X] MySQL: Introduction to MySQL
@@ -258,7 +258,8 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
     - [ ] Monte Carlo Simulation
     - [ ] Recursive Pandas Algorithm
 - [ ] Mathematical Tools: 
-    - [ ] Approximation
+    - [X] Approximation
+    - [ ] Interpolation
     - [ ] Convex Optimization
     - [ ] Integration
     - [ ] Symbolic Computation
