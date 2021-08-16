@@ -6,7 +6,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 
 ### Data Science for Kids
 - [X] Drawing with p5.js: Canvas
-- [ ] Drawing with p5.js: Basic Shapes
+- [X] Drawing with p5.js: Basic Shapes
 - [ ] Drawing with p5.js: Drawing Order 
 - [ ] Drawing with p5.js: Shape Properties
 - [ ] Drawing with p5.js: Color
@@ -68,7 +68,7 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] The Datasets Package
 - [X] Getting Started with statsmodels
 - [X] Fitting Models Using R-style Formulas
-- [ ] Linear Regression with statsmodels
+- [X] Linear Regression with statsmodels
 - [ ] Generalized Linear Models with statsmodels
 - [ ] Generalized Estimating Equations with statsmodels
 - [ ] Robust Linear Models with statsmodels
