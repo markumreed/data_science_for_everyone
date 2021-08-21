@@ -7,9 +7,9 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 ### Data Science for Kids
 - [X] Drawing with p5.js: Canvas
 - [X] Drawing with p5.js: Basic Shapes
-- [ ] Drawing with p5.js: Drawing Order 
-- [ ] Drawing with p5.js: Shape Properties
-- [ ] Drawing with p5.js: Color
+- [X] Drawing with p5.js: Drawing Order 
+- [X] Drawing with p5.js: Shape Properties
+- [X] Drawing with p5.js: Color
 - [ ] Drawing with p5.js: Custom Shapes 
 - [ ] Drawing with p5.js: Comments
 - [ ] Drawing with p5.js: Robot 1
@@ -65,30 +65,14 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 
 ### statsmodels
 - [X] Introduction to statsmodels
-- [ ] The Datasets Package
 - [X] Getting Started with statsmodels
 - [X] Fitting Models Using R-style Formulas
 - [X] Linear Regression with statsmodels
-- [ ] Generalized Linear Models with statsmodels
-- [ ] Generalized Estimating Equations with statsmodels
-- [ ] Robust Linear Models with statsmodels
-- [ ] Linear Mixed Effects Models with statsmodels
-- [ ] Regression with Discrete Dependent Variable with statsmodels
-- [ ] Generalized Linear Mixed Effects Models with statsmodels
-- [ ] ANOVA with statsmodels
-- [ ] Time series analysis (tsa) with statsmodels
-- [ ] Time series analysis by Stats Space Methods (statespace) with statsmodels
-- [ ] Vector Autoregressions (tsa.vector\_ar) with statsmodels
-- [ ] Methods for Survival and Duration Analysis with statsmodels
-- [ ] Nonparametric Methods (nonparametric) with statsmodels
-- [ ] Generalized Method of Moments (gmm) with statsmodels
-- [ ] Other Models (miscmodels) with statsmodels
-- [ ] Multivariate Statistics (multivariate) with statsmodels
-- [ ] Ordinary Least Squares Example
-- [ ] Generalized Least Squares Example
-- [ ] Quantile Regression Example
-- [ ] Recursive Least Squares Example
-- [ ] Rolling Least Squares Example
+- [X] Ordinary Least Squares Example
+- [X] Generalized Least Squares Example
+- [X] Quantile Regression Example
+- [X] Recursive Least Squares Example
+- [X] Rolling Least Squares Example
 - [ ] Regression Diagnostics Example
 - [ ] Weighted Least Squares Example
 - [ ] Linear Mixed-Effects Example
