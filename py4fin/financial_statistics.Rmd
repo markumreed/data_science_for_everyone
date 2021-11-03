@@ -1,0 +1,29 @@
+---
+title: "Financial Statistics"
+author: Data Science for Everyone
+date: Fall 2021
+output: powerpoint_presentation
+---
+
+# Normality
+
+## Normality Tests
+A large number of important financial models, like modern or mean-variance portfolio theory (MPT) and the capital asset pricing model (CAPM), rest on the assumption that returns of securities are normally distributed. Therefore, this chapter presents approaches to test a given time series for normality of returns.
+The normal distribution can be considered the most important distribution in finance and one of the major statistical building blocks of financial theory.
+
+
+## Normality and Financial Theory
+
+*Portfolio theory*: When stock returns are normally distributed, optimal portfolio choice can be cast into a setting where only the (expected) mean return and the variance of the returns (or the volatility) as well as the covariances between different stocks are relevant for an investment decision (i.e., an optimal portfolio composition).
+
+*Capital asset pricing model*: Again, when stock returns are normally distributed, prices of single stocks can be elegantly expressed in linear relationship to a broad market index; the relationship is generally expressed by a measure for the co-movement of a single stock with the market index called beta or $\beta$.
+
+## Normality and Financial Theory
+
+*Efficient markets hypothesis*: An efficient market is a market where prices reflect all available information, where “all” can be defined more narrowly or more widely (e.g., as in “all publicly available” information vs. including also “only privately available” information). If this hypothesis holds true, then stock prices fluctuate randomly and returns are normally distributed.
+
+*Option pricing theory*: Brownian motion is the benchmark model for the modeling of random price movements of financial instruments; the famous Black-Scholes-Merton option pricing formula uses a geometric Brownian motion as the model for a stock’s random price fluctuations over time, leading to log-normally distributed prices and normally distributed returns.
+
+## Benchmark Case
+
+To set the stage for further analyses, the analysis starts with the geometric Brownian motion as one of the canonical stochastic processes used in financial modeling. 

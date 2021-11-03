@@ -50,6 +50,9 @@ years=date_pattern,
 f.xaxis.major_label_orientation=radians(80)
 f.xaxis.axis_label = "Date"
 f.yaxis.axis_label = "Value"
+f.x_range.follow="end"
+f.x_range.follow_interval = 2000 # milliseconds; 200 seconds == 200000 milliseconds
+f.x_range.range_padding=0
 
 #create Select widget
 options=[("stock1","Stock One"),("stock2","Stock Two")]
