@@ -6,15 +6,15 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 
 ## Financial Data Science
 
-- [ ] Data Visualization
+- [X] Data Visualization
     - [X] Static 2D Plotting
     - [X] 1D Data Sets
     - [X] 2D Data Sets
-    - [ ] Other Plot Styles
-    - [ ] 3D Static Plots
-    - [ ] Interactive 2D Plots
-        - [ ] Basic Plots
-        - [ ] Financial Plots
+    - [X] Other Plot Styles
+    - [X] 3D Static Plots
+    - [X] Interactive 2D Plots
+        - [X] Basic Plots
+        - [X] Financial Plots
 - [ ] Financial Time Series
     - [ ] Data Import
     - [ ] Summary Statistics
