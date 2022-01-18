@@ -5,30 +5,6 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 ## Video TODO List
 
 ## Financial Data Science
-
-- [X] Data Visualization
-    - [X] Static 2D Plotting
-    - [X] 1D Data Sets
-    - [X] 2D Data Sets
-    - [X] Other Plot Styles
-    - [X] 3D Static Plots
-    - [X] Interactive 2D Plots
-        - [X] Basic Plots
-        - [X] Financial Plots
-- [ ] Financial Time Series
-    - [ ] Data Import
-    - [ ] Summary Statistics
-    - [ ] Changes over Time
-    - [ ] Resampling
-    - [ ] Rolling Statistics
-        - [ ] Overview
-        - [ ] Technical Analysis Example
-    - [ ] Correlation Analysis
-        - [ ] The Data
-        - [ ] Logarithmic Returns
-        - [ ] OLS Regression
-        - [ ] Correlation
-     - [ ] High-Frequency Data
 - [ ] FXCM Trading Platform
 - [ ] Trading Strategies
 - [ ] Automated Trading
@@ -38,99 +14,64 @@ Welcome everyone to the Data Science for Everyone video request page. Below you'
 - [ ] Portfolio Valuation
 - [ ] Market-Based Valuation
 
-## Advanced Analytics and Machine Learning with PySpark
-- [ ] Adv. Analytics & ML Overview
-- [ ] Preprocessing & Feature Engineering
-- [ ] Classification
-- [ ] Regression
-- [ ] Recommendation
-- [ ] Unsupervised Learning
-- [ ] Graph Analytics
-- [ ] Deep Learning
+## TensorFlow Certificate Checklist
+- [ ] TensorFlow Developer Skills
+    - [ ] Basic Python Skills (Resolve Issues, Run/Compile programs in PyCharm)
+    - [ ] Review TensorFlow API Reference
+    - [ ] Know how to debug/solve error messages from TF API
+    - [ ] Create ML Models using TF where the model size is reasonable
+    - [ ] Save ML Models and Check the model file size
+    - [ ] Understand compatibility discrepancies between different versions of TF
 
-## Machine Learning with Scikit-Learn
-- [ ] Classification
-- [ ] Training Models
-- [ ] Support Vector Machines
-- [ ] Decision Trees and Random Forests
-- [ ] Dimensionality Reduction
-- [ ] Unsupervised Learning
+- [ ] Building and Training Neural Network Models with TF 2.0
+    - [ ] User TensorFlow 2.0
+    - [ ] Build, Compile and train ML models with TF
+    - [ ] Preprocessing data to get it ready for use in a model
+    - [ ] Use models to predict results
+    - [ ] Build Sequential models with multiple layers
+    - [ ] Build and train models for binary classification.
+    - [ ] Build and train models for multi-class categorization.
+    - [ ] Plot loss and accuracy of a trained model.
+    - [ ] Identify strategies to prevent overfitting, including augmentation and dropout.
+    - [ ] Use pretrained models (transfer learning).
+    - [ ] Extract features from pre-trained models.
+    - [ ] Ensure that inputs to a model are in the correct shape
+    - [ ] Ensure that you can match test data to the input shape of a neural network.
+    - [ ] Ensure you can match output data of a neural network to specified input shape for test data.
+    - [ ] Understand batch loading of data.
+    - [ ] Use callbacks to trigger the end of training cycles.
+    - [ ] Use datasets from different sources.
+    - [ ] Use datasets in different formats, including json and csv.
+    - [ ] Use datasets from tf.data.datasets.
 
-## Deep Learning Keras & TensorFlow
-- [ ] Quick Tour of TensorFlow
-- [ ] Custom Models and Training Algorithms
-- [ ] Loading and Preprocessing Data
-- [ ] Deep Computer Vision Using CNNs
-- [ ] Processing Sequences with RNNs & CNNs
-- [ ] NLP with RNNs and Attention
-- [ ] Representative Learning & Generative Learning
-- [ ] Reinforcement Learning
-- [ ] Training & Deploying 
+- [ ] Image Classification
+    - [ ] Define Convolutional neural networks with Conv2D and pooling layers.
+    - [ ] Build and train models to process real-world image datasets.
+    - [ ] Understand how to use convolutions to improve your neural network.
+    - [ ] Use real-world images in different shapes and sizes..
+    - [ ] Use image augmentation to prevent overfitting.
+    - [ ] Use ImageDataGenerator.
+    - [ ] Understand how ImageDataGenerator labels images based on the directory structure.
 
-## Economics
-- [X] Elasticity
-    - [X] Price Elasticity of Demand and Price Elasticity of Supply
-    - [X] Polar Cases of Elasticity and Constant Elasticity
-    - [X] Elasticity and Pricing
-    - [X] Elasticity in Areas Other Than Price
-- [ ] Consumer Theory
-    - [ ] Consumption Choices
-    - [ ] How Changes in Income & Prices Affect Consumption Choices
-    - [ ] Behavioral Economics
-- [ ] Government Intervention in Markets
-    - [ ] Price Ceilings and Price Floors
-    - [ ] Demand, Supply, and Efficiency
-- [ ] Globalization & Protectionism
-    - [ ] Protectionism: An Indirect Subsidy from Consumers to Producers
-    - [ ] International Trade and Its Effects on Jobs, Wages, and Working Conditions
-    - [ ] Arguments in Support of Restricting Imports
-    - [ ] How Governments Enact Trade Policy: Globally, Regionally, and Nationally
-    - [ ] The Tradeoffs of Trade Policy
-- [ ] Costs and Firm Behavior
-    - [ ] Explicit and Implicit Costs, and Accounting  and Economic Profit
-    - [ ] Production in the Short Run
-    - [ ] Costs in the Short Run
-    - [ ] Production in the Long Run
-    - [ ] Costs in the Long Run
-- [ ] Market Structure
-    - [ ] Perfect Competition and Why It Matters
-    - [ ] How Perfectly Competitive Firms Make Output Decisions
-    - [ ] How Monopolies Form: Barriers to Entry
-    - [ ] How a Profit-Maximizing Monopoly Chooses Output and Price
-    - [ ] Monopolistic Competition
-    - [ ] Oligopoly
-- [ ] Macroeconomic Indicators
-    - [ ] Measuring the Size of the Economy: Gross Domestic Product
-    - [ ] Adjusting Nominal Values to Real Values
-    - [ ] Tracking Real GDP over Time
-    - [ ] Comparing GDP among Countries
-    - [ ] How Well GDP Measures the Well-Being of Society
-    - [ ] How the Unemployment Rate is Defined and Computed
-    - [ ] Patterns of Unemployment
-    - [ ] What Causes Changes in Unemployment Over the Short Run
-    - [ ] What Causes Changes in Unemployment Over the Long Run
-    - [ ] Tracking Inflation
-    - [ ] How to Measure Changes in the Cost of Living
-    - [ ] How the U.S. and Other Countries Experience Inflation
-    - [ ] The Confusion Over Inflation Indexing and Its Limitations
-- [ ] Monetary & Fiscal Policy
-    - [ ] The Federal Reserve Banking System and Central Banks
-    - [ ] Bank Regulation
-    - [ ] How a Central Bank Executes Monetary Policy
-    - [ ] Monetary Policy and Economic Outcomes
-    - [ ] Pitfalls for Monetary Policy
-    - [ ] Government Spending
-    - [ ] Taxation
-    - [ ] Federal Deficits and the National Debt
-    - [ ] Using Fiscal Policy to Fight Recession, Unemployment, and Inflation
-    - [ ] Automatic Stabilizers
-    - [ ] Practical Problems with Discretionary Fiscal Policy
-    - [ ] The Question of a Balanced Budget
+- [ ] Natural Language Processing (NLP)
+    - [ ] Build natural language processing systems using TensorFlow.
+    - [ ] Prepare text to use in TensorFlow models.
+    - [ ] Build models that identify the category of a piece of text using binary categorization
+    - [ ] Build models that identify the category of a piece of text using multi-class categorization
+    - [ ] Use word embeddings in your TensorFlow model.
+    - [ ] Use LSTMs in your model to classify text for either binary or multi-class categorization.
+    - [ ] Add RNN and GRU layers to your model.
+    - [ ] Use RNNS, LSTMs, GRUs and CNNs in models that work with text.
 
-
-
-
-  
-
-
-
+- [ ] Time series, sequences and predictions
+    - [ ] Train, tune and use time series, sequence and prediction models.
+    - [ ] Train models to predict values for both univariate and multivariate time series.
+    - [ ] Prepare data for time series learning.
+    - [ ] Understand Mean Absolute Error (MAE) and how it can be used to evaluate accuracy of sequence models.
+    - [ ] Use RNNs and CNNs for time series, sequence and forecasting models.
+    - [ ] Identify when to use trailing versus centred windows.
+    - [ ] Use TensorFlow for forecasting.
+    - [ ] Prepare features and labels.
+    - [ ] Identify and compensate for sequence bias.
+    - [ ] Adjust the learning rate dynamically in time series, sequence and prediction models.
+    - [ ] Train LSTMs on existing text to generate text (such as songs and poetry)
